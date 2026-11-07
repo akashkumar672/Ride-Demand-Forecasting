@@ -148,7 +148,11 @@ streamlit run app/streamlit_app.py
 - Demand-based planning.
 - Operational cost reduction.
 - Improved customer experience.
+## 🚀 FastAPI Swagger UI
 
+The project provides API endpoints for bike demand prediction.
+
+![FastAPI Swagger UI](screenshots/FastAPI%20Swagger%20UI.png)
 ## 👨‍💻 Author
 
 **Akash Kumar**
